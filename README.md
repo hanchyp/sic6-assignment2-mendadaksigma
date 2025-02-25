@@ -1,4 +1,4 @@
-# 🤖IoT Projects - SIC6 - Stage 2🤖
+# 🤖IoT Projects - SIC6 - Stage 2 - Mendadak Sigma🤖
 
 ## Task✏️‼️
 Buatlah sebuah dashboard di platform ubidots dengan minimal 2 visualisasi (bisa berupa chart/grafik dll) dan script micropython untuk mengirimkan data sensor (boleh menggunakan sensor apa saja)
