@@ -13,9 +13,9 @@ Buatlah sebuah dashboard di platform ubidots dengan minimal 2 visualisasi (bisa 
 - Integrated with Ubidots & MongoDB
 
 ### NOTES!
-app.py → Flask Backend for MongoDB connection\
+app.py → Flask Backend for MongoDB connection
 
-main.py → MicroPython for Ubidots and IoT connection\
+main.py → MicroPython for Ubidots and IoT connection
 
 ### ‼️HOW TO RUN‼️
 1. Change the WIFI_ID and WIFI_PASSWORD (main.py)
